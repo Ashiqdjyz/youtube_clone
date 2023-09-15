@@ -9,7 +9,7 @@ import {
 } from "../utils/constants";
 import { CheckCircle } from "@mui/icons-material";
 function ChannelCard({channelDetails,width}) {
-console.log(channelDetails);
+//console.log(channelDetails);
   // console.log(channelDetails.snippet.thumbnails.high.url)
   return (
     <Box
